@@ -1,2 +1,2 @@
-# test1
+# test
 Test is for git commands demonstration.
